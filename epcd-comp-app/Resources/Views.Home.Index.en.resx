@@ -1,0 +1,122 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="pageTitle" xml:space="preserve">
+        <value>Environmental Photography Competition</value>
+    </data>
+    <data name="title" xml:space="preserve">
+        <value>Environmental Photography Competition 2024</value>
+    </data>
+    <data name="day" xml:space="preserve">
+        <value>1</value>
+    </data>
+    <data name="from" xml:space="preserve">
+        <value>From</value>
+    </data>
+    <data name="month" xml:space="preserve">
+        <value>Sep</value>
+    </data>
+    <data name="to" xml:space="preserve">
+        <value>To</value>
+    </data>
+    <data name="ending" xml:space="preserve">
+        <value>2024 September 30</value>
+    </data>
+    <data name="citiesCoveredTitle" xml:space="preserve">
+        <value>In These Cites</value>
+    </data>
+    <data name="city" xml:space="preserve">
+        <value>Yanbu Industrial</value>
+    </data>
+    <data name="CompCategoriesTextMain" xml:space="preserve">
+        <value>Focusing on all environmental related. All competition Professional, Kids and amateurs must comply with mentioned roles and submitted photos must be related to environmental issues such as:</value>
+    </data>
+    <data name="CompCategoriesTextSub1" xml:space="preserve">
+        <value>Natural landscape / view</value>
+    </data>
+    <data name="CompCategoriesTextSub2" xml:space="preserve">
+        <value>Marine and Terrestrial Environment</value>
+    </data>
+    <data name="CompCategoriesTextSub3" xml:space="preserve">
+        <value>Green Environment</value>
+    </data>
+    <data name="CompCategoriesTextSub4" xml:space="preserve">
+        <value>Environmental Conservation</value>
+    </data>
+    <data name="CompCategoriesTextSub5" xml:space="preserve">
+        <value>All areas associated with the environment</value>
+    </data>
+    <data name="CompCategoriesTitle" xml:space="preserve">
+        <value>Competition Scope</value>
+    </data>
+    <data name="CompDetailsTitle" xml:space="preserve">
+        <value>Competition Details</value>
+    </data>
+    <data name="CompetitionOrganizers" xml:space="preserve">
+        <value>Competition Organizers</value>
+    </data>
+    <data name="HowToParticipateText" xml:space="preserve">
+        <value>To participate, please click</value>
+    </data>
+    <data name="HowToParticipateTextLink" xml:space="preserve">
+        <value>Here</value>
+    </data>
+    <data name="HowToParticipateTitle" xml:space="preserve">
+        <value>How to participate</value>
+    </data>
+    <data name="introductionText" xml:space="preserve">
+        <value>This competition aims to raise environmental awareness within the community and foster a new generation that understands the importance of the environment, integrating it into their daily lives.</value>
+    </data>
+    <data name="introductionTitle" xml:space="preserve">
+        <value>Introduction</value>
+    </data>
+    <data name="Organizer" xml:space="preserve">
+        <value>Organizer</value>
+    </data>
+    <data name="TermsAndConditionsTitle" xml:space="preserve">
+        <value>Terms and Conditions</value>
+    </data>
+    <data name="TermsAndConditionsText10" xml:space="preserve">
+        <value>Winners will be notified through email and phone number.</value>
+    </data>
+    <data name="TermsAndConditionsText1" xml:space="preserve">
+        <value>The competition will start on 1 of September 2024 and end on 30 September 2024.</value>
+    </data>
+    <data name="TermsAndConditionsText2" xml:space="preserve">
+        <value>All contribution must be submitted in (JEPG) or (JPG) or (PNG) format.</value>
+    </data>
+    <data name="TermsAndConditionsText3" xml:space="preserve">
+        <value>Total contribution is not exceeding 4 photos max size for all images shall not exceed 4GB</value>
+    </data>
+    <data name="TermsAndConditionsText4" xml:space="preserve">
+        <value>Editing, Photoshop and tuning is permitted, on the condition it doesn't exceed 20%.</value>
+    </data>
+    <data name="TermsAndConditionsText5" xml:space="preserve">
+        <value>Photos must be from Yanbu Industrial city.</value>
+    </data>
+    <data name="TermsAndConditionsText6" xml:space="preserve">
+        <value>Photos can have a title and a description to to clarify the purpose/the message that you want pass of your photo.</value>
+    </data>
+    <data name="TermsAndConditionsText7" xml:space="preserve">
+        <value>The participant must write their name, phone number, and email.</value>
+    </data>
+    <data name="TermsAndConditionsText8" xml:space="preserve">
+        <value>Participating in this competition is a clear declaration from the participant that submitted photos are belong to him and he is authorizing us The Royal Commission in Jubail and Yanbu use subject photos in any publications with full rights without getting any permission from the mentioned.</value>
+    </data>
+    <data name="TermsAndConditionsText9" xml:space="preserve">
+        <value>The Royal Commission in Jubail and Yanbu has the right to reprint and copy the photos for free for any media purposes in newspapers, magazines, exhibitions, or annual calendars, as well as for all types of publishing by partners. Participation in the competition is considered acceptance of this.</value>
+    </data>
+    <data name="starting" xml:space="preserve">
+        <value>2024 September 1</value>
+    </data>
+</root>

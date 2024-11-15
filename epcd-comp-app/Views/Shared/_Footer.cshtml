@@ -1,0 +1,12 @@
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+<div class="footer">
+    <div class="innerfooter">
+        <img class="footer-rc-logo" src="../assets/footer_RCJY_logo.png" alt="RCYCI Logo">
+        <img class="footer-2030-logo" src="../assets/footer_vision_logo.png" alt="2030 vision">
+    </div>
+    <div class="outerfooter">
+        <p>@Localizer["rights"]</p>
+    </div>
+</div>

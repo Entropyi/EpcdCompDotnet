@@ -1,0 +1,37 @@
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+
+<div class="headerContainer">
+    <div class="headerSubContainer">
+        <div class="headerSloganContainer">
+            <p class="slogan">@Localizer["slogan"]</p>
+        </div>
+
+        <a asp-controller="Home" asp-action="Index">
+            <div
+                class="headerLogoContainer">
+                <img class="navbar-logo" src="../assets/navbar_logo.png" alt="navbar-logo">
+            </div>
+        </a>
+
+        <form asp-controller="Culture" asp-action="ToggleCulture" asp-route-returnUrl="@Context.Request.Path" method="post"
+            class="headerLanguagesSwitchSuperContainer"> 
+            <button type="submit"  class="headerLanguagesSwitchContainer">
+                @if (System.Threading.Thread.CurrentThread.CurrentCulture.Name == "en")
+                {
+                    <p class="englishLangText">ع</p>
+                }
+                else
+                {
+                    <p class="englishLangText">en</p>
+                }
+                <img class="navbar-lang-svg" src="../assets/lang.svg" alt="lang-logo">
+
+            </button>
+        </form>
+
+
+
+    </div>
+</div>

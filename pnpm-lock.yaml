@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      jquery-filepond:
+        specifier: ^1.0.0
+        version: 1.0.0
+
+packages:
+
+  jquery-filepond@1.0.0:
+    resolution: {integrity: sha512-ONxFHUsDMfkHFhVn+GwE8XtEFE3WhSNun5+h3KxW1RiVs2pnnkO/3WvQ+IjnLP4ywVkzEgkNXJaguxPH4Wz3aw==}
+
+snapshots:
+
+  jquery-filepond@1.0.0: {}

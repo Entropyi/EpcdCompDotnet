@@ -1,0 +1,43 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FFirstSection/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FFirstSection/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FHome/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FHome/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FIndex/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FIndex/@EntryIndexRemoved">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FResources/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FResources/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FSharedResource/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FSharedResource/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FSharedResources/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EHome_002EForm/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EHome_002EIndex/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EHome_002EPrivacy/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EHome_002EPrivacy/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EShared_002EIndex/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EShared_002E_005FFooter/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EShared_002EIndex/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002EShared_002E_005FHeader/@EntryIndexedValue">False</s:Boolean>
+	
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002FHome_002FIndex/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002FHome_002FIndex/@EntryIndexRemoved">True</s:Boolean>
+	
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002FHome_002FWelcome/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002FHome_002FWelcome/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002FIndex/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FViews_002FIndex/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FWelocme/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FResources_002FWelocme/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FViews_002FShared_002FIndex/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=epcd_002Dcomp_002Dapp_002FViews_002FShared_002FIndex/@EntryIndexRemoved">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/ShowOnlyStringResources/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

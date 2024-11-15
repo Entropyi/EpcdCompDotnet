@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="pageTitle" xml:space="preserve">
+        <value>مسابقة التصوير البيئي</value>
+    </data>
+    <data name="title" xml:space="preserve">
+        <value>مسابقة التصوير البيئي لعام 2024</value>
+    </data>
+    <data name="day" xml:space="preserve">
+        <value>28</value>
+    </data>
+    <data name="month" xml:space="preserve">
+        <value>صفر</value>
+    </data>
+    <data name="from" xml:space="preserve">
+        <value>من</value>
+    </data>
+    <data name="to" xml:space="preserve">
+        <value>الى</value>
+    </data>
+    <data name="ending" xml:space="preserve">
+        <value>27 ربيع الأول 1446</value>
+    </data>
+    <data name="citiesCoveredTitle" xml:space="preserve">
+        <value>في المدن التالية</value>
+    </data>
+    <data name="city" xml:space="preserve">
+        <value>ينبُع الصناعية</value>
+    </data>
+    <data name="CompDetailsTitle" xml:space="preserve">
+        <value>تفاصيل المسابقة</value>
+    </data>
+    <data name="introductionTitle" xml:space="preserve">
+        <value>مقدمة</value>
+    </data>
+    <data name="introductionText" xml:space="preserve">
+        <value> تهدف المسابقة إلى رفع درجة الوعي لدى جميع شرائح المجتمع تجاه البيئة التي نعيش فيها بغرض المحافظة عليها والاهتمام بها وتنشئة جيل قادم يؤمن بهذا المفهوم ويكون جزء من تصرفاته اليومية.</value>
+    </data>
+    <data name="CompCategoriesTitle" xml:space="preserve">
+        <value>محاور المسابقة</value>
+    </data>
+    <data name="CompCategoriesTextMain" xml:space="preserve">
+        <value>المحور الأساسي هو الطبيعة والبيئة . تهدف المسابقة إلى وضع علامة إيجابية للبيئة والطبيعة في كوكبنا بحيث نجعل كوكب الأرض فريد من نوعه وتشمل الصور:</value>
+    </data>
+    <data name="CompCategoriesTextSub1" xml:space="preserve">
+        <value>المناظر الطبيعية</value>
+    </data>
+    <data name="CompCategoriesTextSub2" xml:space="preserve">
+        <value>البيئة البحرية والبرية</value>
+    </data>
+    <data name="CompCategoriesTextSub3" xml:space="preserve">
+        <value>البيئة الخضراء</value>
+    </data>
+    <data name="CompCategoriesTextSub4" xml:space="preserve">
+        <value>المحافظة على البيئة</value>
+    </data>
+    <data name="CompCategoriesTextSub5" xml:space="preserve">
+        <value>جميع الحقول المرتبطه بالبيئة</value>
+    </data>
+    <data name="TermsAndConditionsTitle" xml:space="preserve">
+        <value>الضوابط والشروط</value>
+    </data>
+    <data name="TermsAndConditionsText1" xml:space="preserve">
+        <value>آخر موعد لتلقي المشاركات سيكون يوم 27 ربيع الأول 1446هـ الموافق 30 سبتمبر 2024م</value>
+    </data>
+    <data name="TermsAndConditionsText2" xml:space="preserve">
+        <value>تقدم جميع المشاركات في صيغة ملفات الكترونية رقمية (PNG) او (JPG) او (JPEG).</value>
+    </data>
+    <data name="TermsAndConditionsText3" xml:space="preserve">
+        <value>يسمح المشاركة بعدد 4 صور كحد أعلى لكل مشترك بشرط أن لا يتجاوز مجموع حجم الصور 4GB.</value>
+    </data>
+    <data name="TermsAndConditionsText4" xml:space="preserve">
+        <value>يمكن إدخال مؤثرات على الصور المشاركة على ان لا تتجاوز 20%.</value>
+    </data>
+    <data name="TermsAndConditionsText5" xml:space="preserve">
+        <value>يجب أن تكون الصور من بيئة مدينة ينبع الصناعية.</value>
+    </data>
+    <data name="TermsAndConditionsText6" xml:space="preserve">
+        <value>المشاركة تعني إقرار المتسابق بملكيته للصورة أو الصور المشترك بها ويقر بالسماح للهيئة الملكية بالجبيل وينبع باستخدامها.</value>
+    </data>
+    <data name="TermsAndConditionsText7" xml:space="preserve">
+        <value>يحق للمشارك وضع عنوان للصورة وذكر الهدف أو تعليق مختصر لها.</value>
+    </data>
+    <data name="TermsAndConditionsText8" xml:space="preserve">
+        <value>يجب كتابة أسم المشارك بالإضافة الى رقم الهاتف والبريد الالكتروني.</value>
+    </data>
+    <data name="TermsAndConditionsText9" xml:space="preserve">
+        <value>للهيئة الملكية بالجبيل وينبع الحق في إعادة طباعة ونسخ الصور مجاناً لأي إغراض إعلامية في الصحف أو المجلات أو المعرض أو التقاويم السنوية، وتعتبر المشاركة في المسابقة قبول  بذلك.</value>
+    </data>
+    <data name="TermsAndConditionsText10" xml:space="preserve">
+        <value>سيتم إشعار الفائزين بالمسابقة عبر أرقام الهواتف و البريد الالكتروني.</value>
+    </data>
+    <data name="HowToParticipateTitle" xml:space="preserve">
+        <value>طريقة المشاركة</value>
+    </data>
+    <data name="HowToParticipateText" xml:space="preserve">
+        <value>للمشاركة يرجى الضغط</value>
+    </data>
+    <data name="HowToParticipateTextLink" xml:space="preserve">
+        <value>هنا</value>
+    </data>
+    <data name="CompetitionOrganizers" xml:space="preserve">
+        <value>منظمون المسابقة</value>
+    </data>
+    <data name="Organizer" xml:space="preserve">
+        <value>منظم المسابقة</value>
+    </data>
+    <data name="starting" xml:space="preserve">
+        <value>28 صفر 1446</value>
+    </data>
+</root>

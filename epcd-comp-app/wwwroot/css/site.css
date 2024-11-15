@@ -1,0 +1,122 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  user-select: none;
+}
+
+:root {
+  --th-Primary: #052976;
+  --th-secondary: #8142ff;
+  --primary: #052976;
+  --bs-primary: #052976;
+  --bs-blue: #052976;
+  --blue: #052976;
+  --secondary: #d3d2d2;
+  --black: #000;
+  --font-black: #052976;
+  --danger: #000;
+  --success: #000;
+  --success-1: #e6fbf3;
+  --success-2: #000;
+  --th-Primary-1: #1b3c82;
+  --th-Primary-2: #324f8e;
+  --th-Primary-3: #49639b;
+  --th-Primary-4: #5f76a7;
+  --th-Primary-5: #697da9;
+  --th-Primary-6: #919baf;
+  --th-Primary-1-rgb: 5, 41, 188;
+  --secondary-1: #a071ff;
+  --secondary-2: #c0a0ff;
+  --secondary-3: #d5c0ff;
+  --secondary-4: #d9c8fd;
+  --secondary-5: #efe7fe;
+  --secondary-6: #7039df;
+  --secondary-7: #7039df;
+  --secondary-1-rgb: 5, 41, 188;
+  --secondary-6-rgb: 5, 41, 188;
+  --dark-grey-1: #4f4c4d;
+  --dark-grey-2: #7b7979;
+  --dark-grey-3: #a7a5a6;
+  --dark-grey-4: #d3d2d2;
+  --dark-grey-5: #e9e9e9;
+  --dark-grey-6: #f7f7ff;
+  --dark-grey-7: #918f8f;
+  --dark-grey-8: #8142ff;
+  --dark-grey-9: #e5e5e5;
+  --dark-grey-10: #fbfbfb;
+  --dark-grey-11: #f5f5f6;
+  --dark-grey-12: #f9f9fa;
+  --dark-grey-13: #fafbfc;
+  --dark-grey-14: #fdfdfd;
+  --white: #f4f4f5;
+  --white-rgb: 255, 255, 255;
+  --black-rgb: 0, 0, 0;
+  --font-black-rgb: 35, 31, 32;
+  --error: #f03738;
+  --opacity-contrast: .05;
+  --dark-grey-6-rgb: 247, 247, 247;
+  --bs-font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --bs-gradient: linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0));
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+
+  *:lang(ar){
+    direction: rtl;
+  }
+
+  a:lang(en){
+    margin-left: 5px;
+  }
+  /*
+  @font-face {
+      font-family: "Font-Bold";
+      font-style: bold;
+      font-weight: 600;
+      src: url("../../fonts/ge_ss/PingAR_LT_Bold.otf") format("opentype");
+  }
+*/
+}
+
+@font-face {
+  font-family: "Font-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../font/PingAR_LT_Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Font-Regular";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../font/PingAR+LT-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Font-Medium";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../font/PingAR_LT_Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Font-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../font/PingAR+LT-Bold.otf") format("opentype");
+}

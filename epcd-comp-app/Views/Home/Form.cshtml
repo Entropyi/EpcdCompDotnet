@@ -1,0 +1,99 @@
+@model epcd_comp_app.Models.ViewModels.RequestViewModel
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+@{
+}
+<div class="formSuperContainer">
+    <div class="formContainer">
+        <div class="formElementsContainer">
+            <form class="formElements" asp-controller="Home" asp-action="submit" method="post">
+
+                <div class="formTitleContainer">
+                    <div class="formTitleText">@Localizer["title"]</div>
+                </div>
+
+                <div class="formSubElements">
+                    <label class="formLabel" for="fullName">
+                        @Localizer["FullName"]
+                        <p class="redTag">*</p>
+                    </label>
+                    <input class="formInput" type="text" id="fullName" name="fullName"/>
+
+
+                    <div class="formGroupOne">
+                        <div class="emailConatiner">
+                            <label class="formLabel" for="email">
+                                @Localizer["Email"]
+                                <p class="redTag">*</p>
+                            </label>
+                            <input class="formInput" asp-for="@Model.Email"/>
+
+                        </div>
+
+                        <div class="ageConatiner">
+                            <label class="formLabel" for="age"> @Localizer["Age"]</label>
+                            <input class="formInput" type="text" id="age"/>
+
+                        </div>
+                    </div>
+
+                    <div class="formGroups">
+                        <label class="formLabel" for="phone-number">
+                            @Localizer["PhoneNumber"]
+                            <p class="redTag">*</p>
+                        </label>
+                        <input class="formInput" type="text" id="phone-number"/>
+
+                    </div>
+
+                    <div class="formGroups">
+                        <label class="formLabel" for="photo-title">@Localizer["Image"]</label>
+                        <input type="file"
+                               class="filepond"
+                               name="filepond"
+                               multiple
+                               data-allow-reorder="true"
+                               data-max-file-size="3MB"
+                               data-max-files="3">
+                    </div>
+
+
+                    <div class="formGroups">
+                        <label class="formLabel" for="photo-title">@Localizer["PhotoTitle"]</label>
+                        <input class="formInput" type="text" id="photo-title"/>
+                    </div>
+
+                    <div class="formGroups">
+                        <label class="formLabel" for="comments">@Localizer["Comments"]</label>
+                        <textarea class="formInput" id="comments"></textarea>
+                    </div>
+
+                    <div class="formGroups">
+                        <label class="formLabel" for="photo-location">
+                            @Localizer["PhotoLocation"]
+                            <p class="redTag">*</p>
+                        </label>
+                        <label class="formSubLabel" for="photo-location">@Localizer["PhotoLocationRequirements"]</label>
+                        <input class="formInput" type="text" id="photo-location"/>
+                    </div>
+
+                    <div class="formGroups">
+                        <label class="formLabel" for="photo-purpose">@Localizer["PhotoPurpose"]</label>
+                        <input class="formInput" type="text" id="photo-purpose"/>
+                    </div>
+
+                    <div class="formTermsAgreement">
+                        <input type="checkbox" class="formCheckBox" id="terms-agreement"/>
+                        <label class="formLabel" for="terms-agreement">@Localizer["TermsAgreement"]</label>
+                    </div>
+
+
+                    <div class="buttonContainer">
+                        <input type="submit" class="formButton" value="@Localizer["Submit"]"/>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

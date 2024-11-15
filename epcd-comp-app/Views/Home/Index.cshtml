@@ -1,0 +1,144 @@
+﻿@model epcd_comp_app.Models.ViewModels.RequestViewModel
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+
+
+<div style="direction: @diracrion"
+     class="headerArticleSuperContainer">
+    <div class="headerArticle">
+        <div class="headerArticleContainer">
+            <div class="card">
+                <h4 class="day">@Localizer["day"]</h4>
+                <h4 class="month">@Localizer["month"]</h4>
+            </div>
+
+            <div class="articleTitleConatiner">
+                <h3 class="title">@Localizer["title"]</h3>
+            </div>
+        </div>
+
+
+        <div class="dateContainer">
+
+            <div class="dateSvgContainer">
+                <img class="dateSvg" src="assets/calendar-days-svgrepo-com.svg" alt="date" width="50" height="50">
+            </div>
+
+            <div class="dateTextContainer">
+                <div class="dateFrom">
+                    <p dir="rtl" lang="ar" class="from">@Localizer["from"]</p>
+                    <p dir="rtl" lang="ar">@Localizer["starting"]</p>
+                </div>
+                <div class="dateTo">
+                    <p dir="rtl" lang="ar" class="to">@Localizer["to"]</p>
+                    <p dir="rtl" lang="ar">@Localizer["ending"]</p>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="location">
+            <div class="cityInfoContainer">
+                <div class="citySvgContainer">
+                    <img src="/assets/city-svgrepo-com.svg" alt="location" width="20" height="20">
+                </div>
+                <div>
+                    <p class="cityTitleText">@Localizer["citiesCoveredTitle"]</p>
+                </div>
+
+            </div>
+            <div>
+                <p class="cityNameText">@Localizer["city"]</p>
+            </div>
+
+        </div>
+
+
+    </div>
+    <div class="headerArticleImageContainer">
+
+        <div class="imageEffectConatiner">
+            <div class="squareOne"></div>
+            <div class="squareTwo"></div>
+        </div>
+
+        <div class="eventsLogo">
+            <img src="assets/events_bg.svg" alt="events_bg.svg">
+        </div>
+    </div>
+</div>
+
+
+<div class="introductionRoot" style="direction: @diracrion">
+    <div class="introductionRootContainer">
+        <div class="detailsTitleContainer">
+            <div class="detailsSvgContainer">
+                <img class="detailsTitleSvg" src="assets/align-right-svgrepo-com.svg" alt="asset" width="20" height="20" draggable="false">
+
+            </div>
+            <p class="detailsTitleText">@Localizer["CompDetailsTitle"]</p>
+        </div>
+        <div class="introTitleContainer">
+            <div class="detailsSvgContainer">
+                <img class="detailsTitleSvg" src="assets/shield-exclamation-svgrepo-com.svg" alt="asset" width="20" height="20" draggable="false">
+            </div>
+            <p class="detailsTitleText">@Localizer["introductionTitle"]</p>
+        </div>
+        <p class="introductionText">@Localizer["introductionText"]</p>
+        <div class="introTitleContainer">
+            <div class="detailsSvgContainer">
+                <img class="detailsTitleSvg" src="assets/white-board-svgrepo-com.svg" alt="details" width="20" height="20" draggable="false">
+            </div>
+            <p class="detailsTitleText">@Localizer["CompCategoriesTitle"]</p>
+        </div>
+        <p class="introductionText"> @Localizer["CompCategoriesTextMain"]</p>
+        <br/>
+
+        <ul class="listStyle">
+            <li class="introductionText"> @Localizer["CompCategoriesTextSub1"]</li>
+            <li class="introductionText"> @Localizer["CompCategoriesTextSub2"]</li>
+            <li class="introductionText"> @Localizer["CompCategoriesTextSub3"]</li>
+            <li class="introductionText"> @Localizer["CompCategoriesTextSub4"]</li>
+            <li class="introductionText"> @Localizer["CompCategoriesTextSub5"]</li>
+        </ul>
+
+        <div class="spacing">
+            <div class="introTitleContainer">
+                <div class="detailsSvgContainer">
+                    <img class="detailsTitleSvg" src="/assets/contract-coverage-svgrepo-com.svg" alt="details" draggable="false" width="20" height="20">
+                </div>
+                <p class="detailsTitleText">@Localizer["TermsAndConditionsTitle"]</p>
+            </div>
+            <ol class="listStyle">
+                <li class="introductionText">@Localizer["TermsAndConditionsText1"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText2"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText3"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText4"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText5"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText6"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText7"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText8"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText9"]</li>
+                <li class="introductionText">@Localizer["TermsAndConditionsText10"]</li>
+            </ol>
+        </div>
+
+        <div class="introTitleContainer">
+            <div class="detailsSvgContainer">
+                <img class="detailsTitleSvg" src="assets/click-svgrepo-com.svg" alt="clickSvg" width="20" height="20" draggable="false">
+            </div>
+
+            <p class="detailsTitleText">@Localizer["HowToParticipateTitle"]</p>
+        </div>
+
+        <p class="introductionText">
+            <a
+                asp-controller="Home" asp-action="Form">
+                <input type="submit" class="formButton"
+                       value="@Localizer["HowToParticipateText"] @Localizer["HowToParticipateTextLink"]"/>
+            </a>
+        </p>
+    </div>
+</div>

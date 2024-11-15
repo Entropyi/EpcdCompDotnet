@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\epcd-comp-app.bundle.scp.css",
+      "PackagePath": "staticwebassets\\epcd-comp-app.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\20220109-025.jpg",
+      "PackagePath": "staticwebassets\\assets\\20220109-025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\RCJY Vertical Lockup.svg",
+      "PackagePath": "staticwebassets\\assets\\RCJY Vertical Lockup.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\alert.svg",
+      "PackagePath": "staticwebassets\\assets\\alert.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\align-right-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\align-right-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\calendar-days-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\calendar-days-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\city-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\city-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\click-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\click-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\contract-coverage-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\contract-coverage-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\corro.svg",
+      "PackagePath": "staticwebassets\\assets\\corro.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\events_bg.svg",
+      "PackagePath": "staticwebassets\\assets\\events_bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\footer_RCJY_logo.png",
+      "PackagePath": "staticwebassets\\assets\\footer_RCJY_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\footer_vision_logo.png",
+      "PackagePath": "staticwebassets\\assets\\footer_vision_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\infospons.svg",
+      "PackagePath": "staticwebassets\\assets\\infospons.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\lang.svg",
+      "PackagePath": "staticwebassets\\assets\\lang.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\navbar_logo.png",
+      "PackagePath": "staticwebassets\\assets\\navbar_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\rc-logo-evo.png",
+      "PackagePath": "staticwebassets\\assets\\rc-logo-evo.png"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\share-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\share-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\shield-exclamation-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\shield-exclamation-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\success.svg",
+      "PackagePath": "staticwebassets\\assets\\success.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\assets\\white-board-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\white-board-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\css\\article.css",
+      "PackagePath": "staticwebassets\\css\\article.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\css\\introduction.css",
+      "PackagePath": "staticwebassets\\css\\introduction.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\font\\PingAR+LT-Bold.otf",
+      "PackagePath": "staticwebassets\\font\\PingAR+LT-Bold.otf"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\font\\PingAR+LT-Regular.otf",
+      "PackagePath": "staticwebassets\\font\\PingAR+LT-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\font\\PingAR_LT_Light.otf",
+      "PackagePath": "staticwebassets\\font\\PingAR_LT_Light.otf"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\font\\PingAR_LT_Medium.otf",
+      "PackagePath": "staticwebassets\\font\\PingAR_LT_Medium.otf"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\E N T R O P Y\\Desktop\\epcd-comp-app\\epcd-comp-app\\wwwroot\\utils\\TextDircation.cs",
+      "PackagePath": "staticwebassets\\utils\\TextDircation.cs"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.epcd-comp-app.props",
+      "PackagePath": "build\\epcd-comp-app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.epcd-comp-app.props",
+      "PackagePath": "buildMultiTargeting\\epcd-comp-app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.epcd-comp-app.props",
+      "PackagePath": "buildTransitive\\epcd-comp-app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.epcd-comp-app.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

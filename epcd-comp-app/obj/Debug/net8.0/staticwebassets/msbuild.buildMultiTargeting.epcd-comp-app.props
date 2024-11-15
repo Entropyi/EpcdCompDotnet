@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\epcd-comp-app.props" />
+</Project>
